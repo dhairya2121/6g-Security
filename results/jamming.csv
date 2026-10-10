@@ -1,0 +1,2 @@
+scenario,txPackets,rxPackets,lostPackets,throughputMbps,delayMs,jitterMs
+jamming,4900,4093,0,8.20687,19.4919,0.369919
