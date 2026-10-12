@@ -405,7 +405,7 @@ Official installation and documentation links will be maintained here.
 
 **Project:** Security Threat Modeling in 6G
 
-**Author:** Dhairya Sarvesh Singhal
+**Author:** Vedant Shende, Suraj Shewale, Dhairya Singhal
 
 **Technologies:** C++, NS-3, 5G-LENA, Linux/WSL2
 
