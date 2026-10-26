@@ -19,7 +19,6 @@ cmake-cache/
 *.log
 
 # IDE/editor files
-.vscode/
 .idea/
 
 # OS files
@@ -28,3 +27,5 @@ Thumbs.db
 
 # Temporary files
 *.tmp
+config.bat
+node_modules

@@ -1,0 +1,3 @@
+scenario,flowType,txPackets,rxPackets,lostPackets,throughputMbps,delayMs,jitterMs
+dos,ATTACKER,98000,596,0,1.19507,1350.22,4.0873
+dos,GENUINE,450,399,0,0.872137,512.97,1.40702
